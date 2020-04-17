@@ -1,0 +1,28 @@
+{
+  "name": "software-programming-challenge",
+  "jest": {
+    "verbose": true
+  },
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --testMatch='**/?(*.)+(spec|test).[tj]s?(x)'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/santanu33/software-programming-challenge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/santanu33/software-programming-challenge/issues"
+  },
+  "homepage": "https://github.com/santanu33/software-programming-challenge#readme",
+  "devdependencies": {
+    "jest": "^25.3.0"
+  },
+  "dependencies": {
+    "chai": "^4.2.0"
+  }
+}
